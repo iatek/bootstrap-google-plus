@@ -3,7 +3,7 @@ bootstrap-google-plus
 
 A Bootstrap Google Plus style theme and template for Bootstrap 3.
 
-[Demo](http://iatek.github.io/bootstrap-google-plus/)
+[Demo page](http://iatek.github.io/bootstrap-google-plus/)
 
 
 This is a Google+ inspired responsive starter template for Bootstrap. The example template features:
