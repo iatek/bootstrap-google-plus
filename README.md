@@ -18,4 +18,4 @@ This is a Google+ inspired responsive starter template for Bootstrap. The theme 
  - about modal
  - element examples
  
-To use, just place theme.css after your bootstrap 3 css. This and other Bootstrap templates are available at: http://bootply.com/templates
+To use, just place theme.css after your Bootstrap 3 CSS. This and other Bootstrap templates are available at: http://www.bootstrapzero.com
